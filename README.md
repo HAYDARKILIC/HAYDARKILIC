@@ -63,18 +63,9 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAYDARKILIC&show_icons=true&theme=tokyonight" alt="Haydar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAYDARKILIC&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ## 📨 Connect with me
 
 * **LinkedIn:** [linkedin.com/in/haydarkilicai](https://linkedin.com/in/haydarkilicai
 * **Email:** haydarkilicinfo@gmail.com
 
-*"What I cannot create, I do not understand." — Richard Feynman*
+ ### "What I cannot create, I do not understand." — Richard Feynman
