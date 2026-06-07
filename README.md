@@ -46,12 +46,18 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 * **[prod_grade_tab_ml](https://github.com/HAYDARKILIC/prod_grade_tab_ml):** Custom GBDT boosters and inner mechanics of XGBoost, LightGBM, and CatBoost.
 * **[data_mining](https://github.com/HAYDARKILIC/data_mining) / [veri_madenciligi](https://github.com/HAYDARKILIC/veri_madenciligi):** Advanced classification, imbalanced data, Association Analysis, and Anomaly detection.
 
-### 👁️ Computer Vision, PDEs & Quantum AI
+### ⚛️ Quantum Artificial Intelligence & Computing
+* **[quantum_artificial_intelligence](https://github.com/HAYDARKILIC/quantum_artificial_intelligence):** Hands-on quantum computing for machine learning, built from scratch in NumPy then bridged to PennyLane. Covers qubits & gates, entanglement & CHSH, quantum algorithms (Deutsch–Jozsa, Grover, QFT), variational circuits & VQE, quantum ML classifiers, and quantum kernels.
+
+### 👁️ Computer Vision & Advanced Image Processing
 * **[computer_vision](https://github.com/HAYDARKILIC/computer_vision) / [bilgisayarli_goru](https://github.com/HAYDARKILIC/bilgisayarli_goru):** No OpenCV, no PyTorch. Custom convolutions, Canny edge detection, Harris corners, Lucas–Kanade optical flow, and custom CNN layers.
-* **[differential_equations_for_ai](https://github.com/HAYDARKILIC/differential_equations_for_ai) / [differential_equations](https://github.com/HAYDARKILIC/differential_equations) / [diferansiyel_denklemler](https://github.com/HAYDARKILIC/diferansiyel_denklemler):** Neural ODEs, PINNs, diffusion models, and optimal control in NumPy + JAX.
 * **[adv_pde_based_image_processing](https://github.com/HAYDARKILIC/adv_pde_based_image_processing):** Advanced Geometric Image Processing, Finsler/Randers metric flows with Numba/CUDA hardware acceleration.
-* **[quantum_artificial_intelligence](https://github.com/HAYDARKILIC/quantum_artificial_intelligence):** Qubits, gates, quantum algorithms (Grover, QFT), VQE, and quantum kernels from scratch in NumPy & PennyLane.
+* **[Riemannian-Curve-Evolution](https://github.com/HAYDARKILIC/Riemannian-Curve-Evolution):** Riemannian Curve Model Analysis: Image Segmentation Application.
+* **[A-Novel-Family-of-Edge-Preserving-Anisotropic-Filters](https://github.com/HAYDARKILIC/A-Novel-Family-of-Edge-Preserving-Anisotropic-Filters):** A Novel Family of Edge Preserving Anisotropic Filters.
 * **[data_vis_for_ai_research](https://github.com/HAYDARKILIC/data_vis_for_ai_research):** High-dimensional embeddings (UMAP), model diagnostics, and Explainable AI (SHAP, LIME, Grad-CAM).
+
+### 📐 Differential Equations & Physics-Informed ML
+* **[differential_equations_for_ai](https://github.com/HAYDARKILIC/differential_equations_for_ai) / [differential_equations](https://github.com/HAYDARKILIC/differential_equations) / [diferansiyel_denklemler](https://github.com/HAYDARKILIC/diferansiyel_denklemler):** Neural ODEs, PINNs, diffusion models, and optimal control in NumPy + JAX.
 
 ---
 
