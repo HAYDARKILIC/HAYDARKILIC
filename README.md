@@ -25,6 +25,7 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 * **[numerical_methods_for_ml](https://github.com/HAYDARKILIC/numerical_methods_for_ml) / [numerical_methods](https://github.com/HAYDARKILIC/numerical_methods) / [sayisal_yontemler](https://github.com/HAYDARKILIC/sayisal_yontemler):** Machine epsilon, Chebyshev interpolation, adaptive Gaussian quadrature, and stiff ODE simulators.
 * **[discrete_mathematics](https://github.com/HAYDARKILIC/discrete_mathematics) / [ayrik_matematik](https://github.com/HAYDARKILIC/ayrik_matematik):** Propositional logic, combinatorics, graph theory, and computational verification of theorems.
 * **[probability](https://github.com/HAYDARKILIC/probability) & [statistics](https://github.com/HAYDARKILIC/statistics) / [olasilik](https://github.com/HAYDARKILIC/olasilik) & [istatistik](https://github.com/HAYDARKILIC/istatistik):** Theoretical background, Python implementations, and visualizations for engineers.
+* **[differential_equations_for_ai](https://github.com/HAYDARKILIC/differential_equations_for_ai) / [differential_equations](https://github.com/HAYDARKILIC/differential_equations) / [diferansiyel_denklemler](https://github.com/HAYDARKILIC/diferansiyel_denklemler):** Neural ODEs, PINNs, diffusion models, and optimal control in NumPy + JAX.
 
 ### ⚡ Systems, Infrastructure & MLOps
 * **[distributed_systems_for_ml](https://github.com/HAYDARKILIC/distributed_systems_for_ml):** Custom Ring All-Reduce primitives, Parameter Servers, 1F1B Pipeline Parallelism, and ZeRO/FSDP memory sharding from scratch.
@@ -55,9 +56,6 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 * **[Riemannian-Curve-Evolution](https://github.com/HAYDARKILIC/Riemannian-Curve-Evolution):** Riemannian Curve Model Analysis: Image Segmentation Application.
 * **[A-Novel-Family-of-Edge-Preserving-Anisotropic-Filters](https://github.com/HAYDARKILIC/A-Novel-Family-of-Edge-Preserving-Anisotropic-Filters):** A Novel Family of Edge Preserving Anisotropic Filters.
 * **[data_vis_for_ai_research](https://github.com/HAYDARKILIC/data_vis_for_ai_research):** High-dimensional embeddings (UMAP), model diagnostics, and Explainable AI (SHAP, LIME, Grad-CAM).
-
-### 📐 Differential Equations & Physics-Informed ML
-* **[differential_equations_for_ai](https://github.com/HAYDARKILIC/differential_equations_for_ai) / [differential_equations](https://github.com/HAYDARKILIC/differential_equations) / [diferansiyel_denklemler](https://github.com/HAYDARKILIC/diferansiyel_denklemler):** Neural ODEs, PINNs, diffusion models, and optimal control in NumPy + JAX.
 
 ---
 
