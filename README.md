@@ -6,7 +6,7 @@
 
 ### 🔬 Research-Grade AI Engineering, Mathematical Foundations & Systems from Scratch
 
-Modern Yapay Zeka ve Makine Öğrenmesinin teorik, matematiksel ve altyapısal temellerini **sıfırdan (pure NumPy, PyTorch & JAX)** inşa ederek keşfeden bir araştırmacı/mühendis. Hazır kütüphaneler yok; saf matematik, algoritmik derinlik ve yüksek performanslı hesaplama var.
+A researcher/engineer exploring the theoretical, mathematical, and infrastructural foundations of modern AI and Machine Learning by building them from scratch (pure NumPy, PyTorch & JAX). No high-level libraries; just pure math, algorithmic depth, and high-performance computing.
 
 ---
 
