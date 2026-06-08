@@ -1,4 +1,4 @@
-# Hi there, I'm HAYDAR KILIÇ 👋
+# Hi there, I'm HAYDAR KILIC 👋
 
 ### 🔬 Research-Grade AI Engineering, Mathematical Foundations & Systems from Scratch
 
