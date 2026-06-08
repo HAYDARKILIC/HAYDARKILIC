@@ -65,7 +65,7 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 
 ## 📨 Connect with me
 
-* **LinkedIn:** [linkedin.com/in/haydarkilicai](https://linkedin.com/in/haydarkilicai
+* **LinkedIn:** https://linkedin.com/in/haydarkilicai
 * **Email:** haydarkilicinfo@gmail.com
 
  ### "What I cannot create, I do not understand." — Richard Feynman
