@@ -11,6 +11,7 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 ### 🧠 Mechanistic Interpretability & Deep Learning
 * **[mechanistic_interpretability](https://github.com/HAYDARKILIC/mechanistic_interpretability):** Reverse-engineering neural network internals from scratch (NumPy + PyTorch). Linear representation hypothesis, superposition, SAEs, induction heads, and causal scrubbing.
 * **[deep_learning](https://github.com/HAYDARKILIC/deep_learning) / [derin_ogrenme](https://github.com/HAYDARKILIC/derin_ogrenme):** Everything about deep learning architecture and foundations.
+* **[advanced_deep_learning](https://github.com/HAYDARKILIC/advanced_deep_learning) / [ileri_derin_ogrenme](https://github.com/HAYDARKILIC/ileri_derin_ogrenme):** Everything about advanced level deep learning architecture and foundations.
 * **[geometric_deep_learning](https://github.com/HAYDARKILIC/geometric_deep_learning):** Manifolds, equivariance, symmetry groups, GNNs, and Riemannian geometry.
 * **[graph_neural_networks](https://github.com/HAYDARKILIC/graph_neural_networks):** Spectral Graph Theory, graph Laplacian, over-smoothing, and raw GCN/GAT/GIN implementations.
 
