@@ -43,7 +43,7 @@ A researcher/engineer exploring the theoretical, mathematical, and infrastructur
 * **[time_series_analysis](https://github.com/HAYDARKILIC/time_series_analysis) / [zaman_serisi_analizi](https://github.com/HAYDARKILIC/zaman_serisi_analizi):** Spectral Analysis, ARCH/GARCH, Multivariate VAR, and State-Space models with Kalman Filters.
 * **[prod_grade_tab_ml](https://github.com/HAYDARKILIC/prod_grade_tab_ml):** Custom GBDT boosters and inner mechanics of XGBoost, LightGBM, and CatBoost.
 * **[data_mining](https://github.com/HAYDARKILIC/data_mining) / [veri_madenciligi](https://github.com/HAYDARKILIC/veri_madenciligi):** Advanced classification, imbalanced data, Association Analysis, and Anomaly detection.
-* **[advanced_machine_learning](https://github.com/HAYDARKILIC/advanced_machine_learning) / [ileri_makine_ogrenmesi](https://github.com/HAYDARKILIC/ileri_makine_ogrenmesi):** 
+* **[advanced_machine_learning](https://github.com/HAYDARKILIC/advanced_machine_learning) / [ileri_makine_ogrenmesi](https://github.com/HAYDARKILIC/ileri_makine_ogrenmesi):** Everything about advanced level machine learning architectures and foundations.
 
 ### ⚛️ Quantum Artificial Intelligence & Computing
 * **[quantum_artificial_intelligence](https://github.com/HAYDARKILIC/quantum_artificial_intelligence):** Hands-on quantum computing for machine learning, built from scratch in NumPy then bridged to PennyLane. Covers qubits & gates, entanglement & CHSH, quantum algorithms (Deutsch–Jozsa, Grover, QFT), variational circuits & VQE, quantum ML classifiers, and quantum kernels.
