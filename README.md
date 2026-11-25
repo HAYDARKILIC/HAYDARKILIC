@@ -80,7 +80,7 @@ Repositories are ordered as a learning path: **Foundations → Machine Learning 
 | Repository | Focus | 🇹🇷 |
 |:--|:--|:--:|
 | [generative_artificial_intelligence](https://github.com/HAYDARKILIC/generative_artificial_intelligence) | From statistical theory to deep generative models: VAE, GAN, Diffusion, Mini-GPT with RoPE | [TR](https://github.com/HAYDARKILIC/uretken_yapay_zeka) |
-| [nlp_course](https://github.com/HAYDARKILIC/nlp_course) | The full NLP stack: tokenization → PEFT/LoRA → DPO/RLHF alignment → production RAG | · |
+| [nlp_course](https://github.com/HAYDARKILIC/nlp_course) | The full NLP stack: tokenization → PEFT/LoRA → DPO/RLHF alignment → production RAG | [TR](https://github.com/HAYDARKILIC/dogal_dil_isleme) |
 | [advanced_llm_architecture](https://github.com/HAYDARKILIC/advanced_llm_architecture) | Next-gen LLM components: quantization, TTT layers, differentiable logic, FlashAttention tiling, context extension |  [TR](https://github.com/HAYDARKILIC/ileri_llm_mimarisi) |
 | [autonomous_ai_agents](https://github.com/HAYDARKILIC/autonomous_ai_agents) | Enterprise AI agents & advanced RAG: MCP architecture, hierarchical indexing, ReAct loops, multi-agent state |  [TR](https://github.com/HAYDARKILIC/otonom_ai_ajanlari) |
 
